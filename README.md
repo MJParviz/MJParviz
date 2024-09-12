@@ -1,5 +1,5 @@
-- 👋 Hi, I’m MJParviz
-- 👀 I’m interested in All machine and deep learning
+- 👋 Hi, I’m Javad
+- 👀 I’m interested in various machine and deep learning algorithm
 - 🌱 I’m currently learning Reinforcement learning
 - 💞️ I’m looking to collaborate on Snapp
 - 📫 How to reach me mj.parviz2005@gmail.com
