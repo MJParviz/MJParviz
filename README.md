@@ -13,14 +13,13 @@ I am a student at K.N. TOOSI University of Technology in Iran. I am passionate a
 <img width="70%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 <!-- Research Interests -->
-My Research Interests:
+**My Research Interests** 📚:
 - All areas of AI research and projects
 
 
 <!-- Collaboration -->
 **I am open to** 🌐:
 
-I am open to:
 - Collaboration work
 - Machine learning projects (development or research)
 - Research internships
