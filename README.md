@@ -5,24 +5,26 @@
 <h1 align='center'> Hi there, I'm Mohammad Javad Parviz <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> </h1>
 
 <!-- Introduction -->
-I study at K.N. TOOSI Univrsity of Tech in IRAN.
+I am a student at K.N. TOOSI University of Technology in Iran. I am passionate about exploring topics such as Machine Learning, Deep Learning, Data Science, and Productivity. I also enjoy contributing to open-source projects.
 
-Currently, I'm a passionate about exploring topics such as Machine Learning, Deep Learning, Data Science, and Productivity. I also enjoy contributing to open-source projects.
+
 
 <!-- GitHub header image -->
 <img width="70%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 <!-- Research Interests -->
-**My Research Interests** 📚:
+My Research Interests:
+- All areas of AI research and projects
 
-- All AI research area and projects
 
 <!-- Collaboration -->
 **I am open to** 🌐:
 
+I am open to:
 - Collaboration work
 - Machine learning projects (development or research)
 - Research internships
+
 
 <!-- Skills Heading -->
 <h2> Skills <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px"> </h2>
